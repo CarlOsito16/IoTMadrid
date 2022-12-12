@@ -1,0 +1,17 @@
+numpy
+seaborn
+tqdm
+scipy
+sklearn
+plotly==5.10.0
+ipython
+jupyter
+notebook
+matplotlib
+pandas
+shapely
+geopandas
+pyogrio
+geopy
+haversine
+pingouin
